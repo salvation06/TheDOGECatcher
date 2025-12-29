@@ -1,8 +1,6 @@
 # 🐕 The DOGE Catcher  
 **Turning complex government grant data into clear, actionable insights for everyday citizens.**
 
-This project was built for the **Google Chrome Built In AI Challenge 2025**!
-
 ---
 
 ## 🎯 Inspiration
